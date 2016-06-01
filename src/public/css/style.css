@@ -1,0 +1,62 @@
+
+
+
+
+#header {
+
+    color:black;
+    text-align:left;
+    padding:5px;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: auto;
+    overflow: auto;
+
+}
+
+#footer {
+    background-color:grey;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: auto;
+    overflow: auto;
+
+}
+
+.tableau{
+  background-color: lightgrey;
+margin:auto;
+width:300px;
+height:400px;
+background-color:white;
+float:right;
+padding:20px;
+border:solid 1px black;
+margin-left: auto;
+margin-right: auto;
+overflow:auto;
+border: 25px solid navy;
+margin: 25px;
+
+overflow: auto;
+
+}
+body{
+  background-image:url(../../images/backgr.jpg);
+  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  width: auto;
+  overflow: auto;
+
+
+}
